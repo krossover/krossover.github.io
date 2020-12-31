@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.praxis-ghaffari.ch/index.html</loc>
+    <xhtml:link 
+               rel="alternate"
+               hreflang="en"
+               href="http://www.praxis-ghaffari.ch/en/index.html"/>
+    <xhtml:link 
+               rel="alternate"
+               hreflang="fa"
+               href="http://www.praxis-ghaffari.ch/fa/index.html"/>
+  </url>
+  <url>
+    <loc>http://www.praxis-ghaffari.ch/en/index.html</loc>
+    <xhtml:link 
+               rel="alternate"
+               hreflang="de"
+               href="http://www.praxis-ghaffari.ch/index.html"/>
+    <xhtml:link 
+               rel="alternate"
+               hreflang="fa"
+               href="http://www.praxis-ghaffari.ch/fa/index.html"/>
+  </url>
+  <url>
+    <loc>http://www.praxis-ghaffari.ch/fa/index.html</loc>
+    <xhtml:link 
+               rel="alternate"
+               hreflang="en"
+               href="http://www.praxis-ghaffari.ch/en/index.html"/>
+    <xhtml:link 
+               rel="alternate"
+               hreflang="de"
+               href="http://www.praxis-ghaffari.ch/de/index.html"/>
+  </url>
+</urlset>
