@@ -518,6 +518,12 @@ div#preloader {
   color: #444;
 }
 
+.single-well ul li .title {
+  font-weight: 600; /* Slightly bold */
+  color: #333;       /* Darker color for contrast */
+  margin-right: 10px; /* Optional: Adds space after the title */
+}
+
 /*--------------------------------*/
 
 /* 4.Services Area
